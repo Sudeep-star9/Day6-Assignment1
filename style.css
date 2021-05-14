@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+
+}
+.page-wrapper{
+    width: 100%;
+    background-color: green;
+    padding-bottom: 15.5%;
+    padding-top: 10%;
+}
+.box{
+    width: 80%;
+    margin: auto;
+    background-color: grey;
+    padding-bottom: 1%;
+    margin-top: 5.5%;
+    overflow: hidden;
+
+}
+ li{
+    width: 18%;
+    background-color: honeydew;
+    padding-bottom: 15%;
+    display: inline-block;
+   margin-top: 2.5%;
+   overflow: hidden;
+}
